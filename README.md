@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > In the present case study, our objective is to apply Exploratory Data Science methods to address a genuine business issue. Specifically, we aim to tackle a risk analytics problem related to Banking and Finance. The focus will be on utilizing data to effectively address challenges such as predicting defaulters in Loan Lending Club.
 
 ## Table of Contents
